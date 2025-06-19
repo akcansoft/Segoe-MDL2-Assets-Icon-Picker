@@ -5,7 +5,7 @@ This [AutoHotkey v2](https://autohotkey.com) script provides a searchable picker
 SegoeIconPicker is a lightweight utility that allows you to browse, search, and copy icons from the Segoe MDL2 Assets font, which is widely used in Windows applications for modern UI symbols. The application loads icon data from a CSV file, displays them in a searchable list, and lets you easily copy the icon character or its Unicode code to the clipboard with a right-click. This tool is ideal for developers and designers who frequently need to access and use Segoe MDL2 icons in their projects.
 
 # Contact
-* [Mesut Akcan](makcan@gmail.com)
+* Mesut Akcan makcan@gmail.com
 * https://akcansoft.blogspot.com
 * https://mesutakcan.blogspot.com
 * https://github.com/akcansoft
