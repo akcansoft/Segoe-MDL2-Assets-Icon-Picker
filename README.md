@@ -1,5 +1,5 @@
 # Segoe MDL2 Assets Icon Picker
-This [AutoHotkey v2](https://autohotkey.com) script provides a searchable picker for **[Segoe MDL2 Assets](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font)** font icons. Use the search box to filter icons. Right-click any icon to copy its character, Unicode code, or description.\
+This [AutoHotkey v2](https://autohotkey.com) script provides a searchable picker for **[Segoe MDL2 Assets](https://learn.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font)** font icons. Use the search box to filter icons. Right-click any icon to copy its character, Unicode code, or description.
 
 This script is free to use and modify. Please give credit if you share or use it in your projects.
 ![Screen Shot](https://www.autohotkey.com/boards/download/file.php?id=28924)
